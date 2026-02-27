@@ -5,6 +5,6 @@ export const metadata = {
   description: 'Professional email management dashboard',
 };
 
-export default function Home() {
+export default function InboxPage() {
   return <InboxDashboard />;
 }
